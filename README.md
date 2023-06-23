@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Vinicius</h1>
 
 ### A creator from Brazil 
-- 🔭 I'm an undergraduate student in **Hainan University**.
+- 🔭 I'm an undergraduate student in **Universidade Federal de Mato Grosso do Sul**.
 - 🌱 I'm a **Data Engineer** and **Tech Lead**.
 - 📫 How to reach me at [vinibeni2801@gmail.com](mailto:vinibeni2801@gmail.com).
 
