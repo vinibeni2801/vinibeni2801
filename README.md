@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Vinicius</h1>
 
-<!--
-**vinibeni2801/vinibeni2801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A creator from Brazil 
+- 🔭 I'm an undergraduate student in **Hainan University**.
+- 🌱 I'm a **Data Engineer** and **Tech Lead**.
+- 📫 How to reach me at [vinibeni2801@gmail.com](mailto:vinibeni2801@gmail.com).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+
+![](https://skillicons.dev/icons?i=py,go,ts,docker,kubernetes,ansible,git,github,gitlab,jenkins,kafka,mysql,mongodb,aws,gcp,azure&theme=light)
+
+### Statistics
+
+<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=vinibeni2801&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=vinibeni2801&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
+
