@@ -4,7 +4,7 @@
 ### A creator from Brazil
 - 🔭 I'm a **Data Engineer** and **Tech Lead**.
 - 📫 How to reach me at [vinibeni2801@gmail.com](mailto:vinibeni2801@gmail.com).
-
+- Curriculum: https://vinibeni2801.github.io/viniciusbenites.github.io/ (testing)
 
 ### Languages and Tools
 
