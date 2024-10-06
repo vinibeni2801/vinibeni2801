@@ -8,7 +8,7 @@
 
 ### Languages and Tools
 
-![](https://skillicons.dev/icons?i=py,go,ts,docker,kubernetes,ansible,git,github,gitlab,jenkins,kafka,mysql,mongodb,aws,gcp,azure&theme=light)
+![](https://skillicons.dev/icons?i=aws,gcp,azure,py,go,docker,kubernetes,terraform,ansible,git,github,gitlab,bitbucket,jenkins,kafka,mysql,postgres,mongodb,redis&theme=light)
 
 
 
