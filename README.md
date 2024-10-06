@@ -6,7 +6,7 @@
 
 📫 How to reach me at [vinibeni2801@gmail.com](mailto:vinibeni2801@gmail.com).
 
-[Curriculum](https://vinibeni2801.github.io/viniciusbenites.github.io/)
+This is my [Curriculum](https://vinibeni2801.github.io/viniciusbenites.github.io/)
 
 ### Languages and Tools
 
