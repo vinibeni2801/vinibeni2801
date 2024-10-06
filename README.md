@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vinicius Benites</h1>
 
-## 🔭 I'm a **Data Engineer** and **Machine Learning Engineer**.
+## I'm a **Data Engineer** and **Machine Learning Engineer**.
 
 Email: [vinibeni2801@gmail.com](mailto:vinibeni2801@gmail.com)
 
