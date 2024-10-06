@@ -1,12 +1,16 @@
 <h1 align="center">Hi there, I'm Vinicius Benites</h1>
 
-### [New Github]
-### A creator from Brazil
-🔭 I'm a **Data Engineer** and **Machine Learning Engineer**.
+## A creator from Brazil
+
+### 🔭 I'm a **Data Engineer** and **Machine Learning Engineer**.
 
 Email: [vinibeni2801@gmail.com](mailto:vinibeni2801@gmail.com).
 
-[Curriculum](https://vinibeni2801.github.io/viniciusbenites.github.io/)
+Experience: [Curriculum](https://vinibeni2801.github.io/viniciusbenites.github.io/)
+
+Medium:
+
+Youtube:
 
 ### Languages and Tools
 
