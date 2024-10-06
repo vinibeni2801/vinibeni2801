@@ -4,9 +4,9 @@
 ### A creator from Brazil
 🔭 I'm a **Data Engineer** and **Machine Learning Engineer**.
 
-📫 How to reach me at [vinibeni2801@gmail.com](mailto:vinibeni2801@gmail.com).
+Email: [vinibeni2801@gmail.com](mailto:vinibeni2801@gmail.com).
 
-This is my [Curriculum](https://vinibeni2801.github.io/viniciusbenites.github.io/)
+[Curriculum]: (https://vinibeni2801.github.io/viniciusbenites.github.io/)
 
 ### Languages and Tools
 
