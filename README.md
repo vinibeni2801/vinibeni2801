@@ -10,6 +10,8 @@ Medium:
 
 Youtube:
 
+Linkedin:
+
 ### Projects
 
 ### Languages and Tools
