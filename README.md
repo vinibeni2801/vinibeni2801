@@ -6,11 +6,11 @@ Email: [vinibeni2801@gmail.com](mailto:vinibeni2801@gmail.com)
 
 Experience: [Curriculum](https://vinibeni2801.github.io/viniciusbenites.github.io/)
 
-Medium:
+Medium: https://medium.com/@benites.vini01
 
-Youtube:
+Youtube: @BenitesVini
 
-Linkedin:
+Linkedin: 
 
 ### Projects
 
