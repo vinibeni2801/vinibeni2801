@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/vinicius-b-3703b71a4/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
- <a href="medium.com/@viniciusbenites28" target="_blank">
+ <a href="[medium.com/@viniciusbenites28](https://viniciusbenites28.medium.com/)" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
   </a>
   <a href="https://www.youtube.com/@BenitesVini" target="_blank">
