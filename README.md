@@ -21,8 +21,8 @@
   - **Post Graduate** Master MultiCloud, DevOps & AI - [The Cloud Bootcamp](https://thecloudbootcamp.com/en/)
 
 ### 📝 I regularly write articles:
-  - On [Medium](https://medium.com/@viniciusbenites28) about data engineer, data science and AI
-  - On [Linkedin](https://www.linkedin.com/in/vinicius-b-3703b71a4/) about data engineer, data science and AI
+  - On [Medium](https://medium.com/@viniciusbenites28) about data engineer, machine learning and AI
+  - On [Linkedin](https://www.linkedin.com/in/vinicius-b-3703b71a4/) about data engineer, machine learning and AI
 
 ## 📄 Curriculum
 - **Online**: [Vinicius Benites](https://vinibeni2801.github.io/viniciusbenites.github.io/)
