@@ -32,7 +32,7 @@
 - [Automated user migration and management of AWS Identity and Access Management (IAM) resources](https://medium.com/@viniciusbenites28/automated-user-migration-and-management-of-aws-identity-and-access-management-iam-resources-f77db01c8ac3)
 <!-- MEDIUM-STORY-LIST:END -->
 
-## 📺 Latest Youtube Videos
+<!-- ## 📺 Latest Youtube Videos-->
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- [![The Supermarket Trick Every Data Pro Should Know!](https://ytcards.demolab.com/?id=Xg9YfNMdjsQ&title=The+Supermarket+Trick+Every+Data+Pro+Should+Know%21&lang=en&timestamp=1727896643&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Supermarket Trick Every Data Pro Should Know!")](https://www.youtube.com/watch?v=Xg9YfNMdjsQ)
 [![Realtime Stock Market Anomaly Detection using ML Models | An End to End Data Engineering Project](https://ytcards.demolab.com/?id=RUfVVOhihEA&title=Realtime+Stock+Market+Anomaly+Detection+using+ML+Models+%7C+An+End+to+End+Data+Engineering+Project&lang=en&timestamp=1727866826&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Realtime Stock Market Anomaly Detection using ML Models | An End to End Data Engineering Project")](https://www.youtube.com/watch?v=RUfVVOhihEA)
