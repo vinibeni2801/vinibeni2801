@@ -24,8 +24,8 @@
   - On [Medium](https://medium.com/@viniciusbenites28) about data engineer, machine learning and AI
   - On [Linkedin](https://www.linkedin.com/in/vinicius-b-3703b71a4/) about data engineer, machine learning and AI
 
-## 📄 Curriculum
-- **Online**: [Vinicius Benites](https://vinibeni2801.github.io/viniciusbenites.github.io/)
+<!--## 📄 Curriculum
+- **Online**: [Vinicius Benites](https://vinibeni2801.github.io/viniciusbenites.github.io/)-->
 
 ## 📚 Latest Medium Stories
 <!-- MEDIUM-STORY-LIST:START -->
